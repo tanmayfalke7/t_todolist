@@ -1,1 +1,1 @@
-Aimple TO-DO LIST APP ...made using Python , streamlit , pandas , MySql
+Simple TO-DO LIST APP ...made using Python , streamlit , pandas , MySql
